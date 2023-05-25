@@ -1,1 +1,2 @@
-API desenvolvida em Django REST seguindo boas práticas, utilizando armazenamento de cache no Redis, versionamento e disponibilização de múltiplos formatos de dados (JSON, XML, YAML).
+# API Escola
+API desenvolvida em Django REST seguindo boas práticas, utilizando paginação, versionamento e disponibilização de múltiplos formatos de dados (JSON, XML, YAML).
